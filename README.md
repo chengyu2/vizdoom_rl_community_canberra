@@ -1,3 +1,9 @@
+# What is this?
+This code base is used by the [AI Community in Canberra](https://www.meetup.com/Canberra-Deep-Learning-Meetup)
+
+We are a learning community for deep learning, reinforcement learning and other AI sutff based in Canberra. 
+
+For details, please visit our community page.
 
 ## VizDoom RL
 ### Background
